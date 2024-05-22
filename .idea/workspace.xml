@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85aff0ef-8d01-45d5-b346-f03963b9a81d" name="Changes" comment="" />
+    <list default="true" id="85aff0ef-8d01-45d5-b346-f03963b9a81d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Python/sys_file" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/May22nd.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/May22nd.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,26 +33,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in test_dog.py.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.May10th (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.May20th.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.May22nd (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.May22nd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dog.executor&quot;: &quot;Run&quot;,
-    &quot;Python.duplicates.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/FromDrive-D/Inbyggda-Sytem-2023/ProgrammeringInbyggdaSystem/Assignments/Yahtzee&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in test_dog.py.executor": "Debug",
+    "Python.May10th (1).executor": "Run",
+    "Python.May20th.executor": "Debug",
+    "Python.May22nd (1).executor": "Run",
+    "Python.May22nd.executor": "Run",
+    "Python.dog.executor": "Run",
+    "Python.duplicates.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/FromDrive-D/Inbyggda-Sytem-2023/ProgrammeringInbyggdaSystem/Lectures",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.May22nd (1)">
     <configuration name="May20th" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Lectures" />
@@ -186,7 +190,8 @@
       <updated>1715325456600</updated>
       <workItem from="1715325457819" duration="16427000" />
       <workItem from="1715894153641" duration="587000" />
-      <workItem from="1716191717926" duration="10364000" />
+      <workItem from="1716191717926" duration="12022000" />
+      <workItem from="1716366867969" duration="11957000" />
     </task>
     <servers />
   </component>
@@ -210,6 +215,11 @@
           <url>file://$PROJECT_DIR$/Lectures/May20th.py</url>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python/May22nd.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -217,7 +227,7 @@
     <SUITE FILE_PATH="coverage/Lectures$dog.coverage" NAME="dog Coverage Results" MODIFIED="1715607604922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lectures" />
     <SUITE FILE_PATH="coverage/Lectures$May10th__1_.coverage" NAME="May10th (1) Coverage Results" MODIFIED="1715334093225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lectures" />
     <SUITE FILE_PATH="coverage/Lectures$May22nd.coverage" NAME="May22nd Coverage Results" MODIFIED="1716364326379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lectures" />
-    <SUITE FILE_PATH="coverage/Lectures$May22nd__1_.coverage" NAME="May22nd (1) Coverage Results" MODIFIED="1716364734945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/Lectures$May22nd__1_.coverage" NAME="May22nd (1) Coverage Results" MODIFIED="1716383345189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/Lectures$.coverage" NAME=" Coverage Results" MODIFIED="1715610870490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lectures" />
     <SUITE FILE_PATH="coverage/Lectures$duplicates.coverage" NAME="duplicates Coverage Results" MODIFIED="1715326702581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lectures" />
     <SUITE FILE_PATH="coverage/Lectures$May20th.coverage" NAME="May20th Coverage Results" MODIFIED="1716204351483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lectures" />
